@@ -4,7 +4,8 @@ Code for the paper Robust Face Verification via Disentangled Representations: ht
 
 Original implementation of LORD credited to Aviv Gabbay and Yedid Hoshen: https://github.com/avivga/lord
 
-Requirements:
+## Requirements:
 
 Tensorflow == 1.14
+
 Keras      == 2.2.4
